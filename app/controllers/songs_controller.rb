@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'rack-flash'
 
 class SongsController < ApplicationController
@@ -45,3 +46,8 @@ class SongsController < ApplicationController
    end
 
  end
+=======
+class SongsController < ApplicationController
+
+end
+>>>>>>> dabc1f2ba1876fdf113bd6cc0969e034bbd6638d
